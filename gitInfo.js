@@ -59,7 +59,8 @@ console.log(gitStatusDefinition);
 */
 
 //CODE HERE
-
+let gitAddDefinition = ('git add adds any changes in the current code to git or github(any staging area)');
+console.log(gitAddDefinition);
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -70,7 +71,8 @@ console.log(gitStatusDefinition);
 */
 
 //CODE HERE
-
+let gitCommitDefinition = ('git commit takes a snapshot of the changes to the repository');
+console.log(gitCommitDefinition);
 
 //////////////////PROBLEM 8////////////////////
 /*
