@@ -81,3 +81,5 @@ console.log(gitCommitDefinition);
 */
 
 //CODE HERE
+let gitPushDefinition = ('git push moves content from a local repo to a remote repo such as github');
+console.log(gitPushDefinition);
