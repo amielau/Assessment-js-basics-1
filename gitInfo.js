@@ -10,6 +10,8 @@
 */
 
 //CODE HERE
+let gitDefinition = ('Git is a version control system that helps track files') 
+console.log(gitDefinition);
 
 //////////////////PROBLEM 2////////////////////
 /*
