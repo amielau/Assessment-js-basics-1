@@ -20,7 +20,8 @@ console.log(gitDefinition);
 */
 
 //CODE HERE
-
+let gitHubDefinition = ('Github is a version control platform that is allows for collaboration in projects');
+console.log(gitHubDefinition);
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -28,7 +29,8 @@ console.log(gitDefinition);
 */
 
 //CODE HERE
-
+let gitInitDefinition = ('git init is used to make a new git repository')
+console.log(gitInitDefinition);
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
