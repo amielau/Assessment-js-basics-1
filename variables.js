@@ -8,7 +8,7 @@ console.log(myName);
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
 //CODE HERE
-let faveNum = "13"
+let faveNum = 3
 console.log(faveNum);
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
@@ -36,6 +36,6 @@ if (faveNum !== 13) {
 */
 
 //CODE HERE
-for (let i = 0; 1 > 5; i++) {
-  console.log(i);
+for(let i = 1; 1 > 5; i++) {
+  console.log(faveNum[i])
 }
