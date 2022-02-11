@@ -11,7 +11,8 @@ console.log(colorCopy);
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
-
+colorCopy.push('Brown')
+  console.log(colorCopy);
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
@@ -21,7 +22,8 @@ console.log(colorCopy);
 const numbers = [1, 2, 3, 4, 5]
 
 //CODE HERE
-
+const middleNums = numbers.slice(1, 4);
+console.log(middleNums);
 
 //////////////////PROBLEM 4////////////////////
 /* 
