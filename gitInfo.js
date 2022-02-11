@@ -38,7 +38,8 @@ console.log(gitInitDefinition);
 */
 
 //CODE HERE
-
+let gitCloneDefinition = ('git clone is used to make a copy of an existing repository');
+console.log(gitCloneDefinition);
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -46,7 +47,8 @@ console.log(gitInitDefinition);
 */
 
 //CODE HERE
-
+let gitStatusDefinition = ('git status allows us to see the state of our git working directory/staging area');
+console.log(gitStatusDefinition);
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
