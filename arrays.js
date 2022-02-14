@@ -38,10 +38,15 @@ console.log(middleNums);
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
-bigOrSmallArray.indexOf(99)
-/*
-const Answers = []
-for (let i = 0; i > 100; i++) {
-  console.log(bigOrSmallArray[i]);
-}
-*/
+let answers = [] 
+ 
+for (let i = 0; i < bigOrSmallArray.length; i++) 
+ if (bigOrSmallArray[i] > 100) {
+   answers.unshift(bigOrSmallArray[i]);
+   console.log(answers);
+ }
+ if (bigOrSmallArray[i] >= 100) {
+   answers.push("big");
+ }
+
+  
